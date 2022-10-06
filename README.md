@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianandhika
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning PyTorch as an image classifier
+- 🌱 I’m currently reading Hands on Machine Learning by O'Rielly
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science fields
 - 📫 You can reach me on my email adrian10ian@gmail.com
 
