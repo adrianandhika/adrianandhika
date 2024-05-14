@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @adrianandhika
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently reading Hands on Machine Learning by O'Rielly
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science fields
-- 📫 You can reach me on my email adrian10ian@gmail.com
+Hi, I’m @adrianandhika
+Currently working on omnichannel platform based
+Speciality on maintaining database query to fulfill the customers need for data sales
 
 <!---
 adrianandhika/adrianandhika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
